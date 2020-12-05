@@ -1,10 +1,5 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Agency v6.0.2 (https://startbootstrap.com/template-overviews/agency)
-* Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
-*/
-/*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
@@ -10434,6 +10429,7 @@ header.masthead .masthead-heading {
   margin-bottom: 3rem;
   text-align: center;
 }
+
 .team-member img {
   width: 14rem;
   height: 14rem;
